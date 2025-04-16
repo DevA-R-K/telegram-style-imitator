@@ -28,7 +28,6 @@ import profile_management
 
 from config import BOT_TOKEN
 
-#7317483522:AAFqozM8ClB9zPGv50ettX2YBRMyt9RZ1Sw"
 MIN_SAMPLES_FOR_STYLE_ANALYSIS = 3
 MIN_SAMPLES_FOR_IMITATION = 5
 
