@@ -15,7 +15,7 @@
 ## ⚙️ Установка
 
 ```bash
-git clone https://github.com/yourusername/telegram-imitator-bot.git
+git clone https://github.com/DevA-R-K/telegram-style-imitator
 cd telegram-imitator-bot
 pip install -r requirements.txt
 ```
